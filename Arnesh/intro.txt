@@ -1,0 +1,12 @@
+To switch: 
+git fetch origin
+git checkout member-code
+
+Create your own personal folder:
+mkdir name
+
+create a file touch your-name/file 
+
+to make a folder inside the folder: 
+mkdir -p your-name/folder-name
+
